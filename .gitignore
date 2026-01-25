@@ -1,3 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# macOS Thumbnails
+Icon?
+
+# macOS Directory metadata
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Scrivener project files
 */Files/binder.autosave
 */Files/binder.backup
 */Files/search.indexes

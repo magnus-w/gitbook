@@ -4,6 +4,4 @@ description: Start page
 
 # No More Meetings
 
-## What kind of thing is this?
-
-It's a first start at publishing something page by page.&#x20;
+How Knowledge Work ran into a cul de sac and how we can get out of it.

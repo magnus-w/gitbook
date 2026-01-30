@@ -6,7 +6,7 @@ When it comes to so called Knowledge Work, the glorified term for white collar w
 
 As the term _Knowledge_ Work implies, you can know more or less about something. In other words, the quality of the knowledge is the key factor. We can call this 'skill level' when we talk about the individual or the organization, and we can call it just 'quality' when it comes to the artefact itself.
 
-Sometimes it feels like the digitalization of work as a concept has acted as a veil for earlier findings like those portrayed in 'Service Management' (_Normann, 1984_) and 'Knowledge Work' (_Drücker, 1996_) that should be seen as, and are, a base layer regardless of what tools we use to accomplish the work.&#x20;
+Sometimes it feels like the digitalization of work as a concept has acted as a veil for earlier findings like those portrayed in 'Service Management: Strategy and Leadership in Service Business' (_Normann, 1983_) and 'The Effective Executive' (_Drücker, 1966_) that should be seen as, and are, a base layer regardless of what tools we use to accomplish the work.&#x20;
 
 But these researchers, as well as many others like Rafael Ramirez at Oxford, have shown just how bad a metaphor the factory is when it comes to organize and to develop work as an activity in the knowledge economy.&#x20;
 
@@ -21,4 +21,3 @@ But again, the organisation of moving physical goods extracted from the province
 And when we realize that digital products actually are a collection of, sum of, knowledge we can use the differentiation between goods and service/knowledge that Normann, Drücker et al made clear as a thought tool to get us out of anecdotal mires.
 
 ### Too Many Meetings
-

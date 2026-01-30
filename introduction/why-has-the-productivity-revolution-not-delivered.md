@@ -21,3 +21,15 @@ But again, the organisation of moving physical goods extracted from the province
 And when we realize that digital products actually are a collection of, sum of, knowledge we can use the differentiation between goods and service/knowledge that Normann, Drücker et al made clear as a thought tool to get us out of anecdotal mires.
 
 ### Too Many Meetings
+
+This bent for/soft spot for/fondness for adminstrational layers is now colonizing our minds in a way that is the largest and most crucial barrier to growth, and to a degree that's also threatening many individual's health. You can meassure it as the actual overhead, as well as a huge alternative cost. Since, as we can observe with many front runners, in real Knowledge Works, it's completely redundant. 
+
+It promotes a reporting culture that sucks vast amounts of time out of value production, in a time when we've already automated and made reports transparently available to anybody within an organization. 
+
+You can observe the symptoms in terms of burnout, but also, much earlier, as very clear signs: First members of an organization will start to complain that they have _too many meetings_. Next, people will try to remedy this by creating more policies for meetings.Like _'Never accept an invitation for a meeting that lacks an agenda.'_   This is a classic example of the broken window fallacy, where fixing one problem creates another. 
+
+Now people not only spend valuable time creating presentations for internal meetings. (Why would you need to sit and present to colleagues? This is a very clear example of meta-content, content about work or artefacts that takes the place of value creating work and ditto artefacts. Just show each other the artefacts your working on!) They also waste precious time on creating agendas to motivate meetings that aren't necessary. Because the meeting is about status updates or about showing each other presentations. 
+
+In other words, the first step in orde to increase the value created by a modern organization is very simple. 
+
+_Don't turn down invitations to meetings that lack an agenda. Turn down invitations to any meeting._
